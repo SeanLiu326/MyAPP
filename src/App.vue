@@ -2,10 +2,9 @@
 </script>
 
 <template>
-  <div>222</div>
-  
-  <router-view></router-view>
+  <router-view class="defalut"></router-view>
 </template>
 
 <style scoped>
+  
 </style>
